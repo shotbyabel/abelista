@@ -12,4 +12,19 @@ This is my attempt to create a boiler template with all the goodies that I like 
 -   
 - 
 
-  
+##How to use this boiler template
+
+1. create a directory
+
+2. clone this repo
+
+3. inside your new created directory
+`git clone git@github.com:shotbyabel/abelista.git`
+
+4. `$ mv abelista/* .`
+
+5. `$ rm -rf abelista/`
+
+6. all should be in your own new directory
+
+### 7. TO BE CONTINUED
